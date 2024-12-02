@@ -1,0 +1,29 @@
+.TopNav {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    background: #f6f6f6;
+    align-items: center;
+
+  }
+
+  .TopLabel {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .TopRouter {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding-left: 150px; /* Ensures space for the label */
+  }
+
+  .TopRouter a {
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+  }

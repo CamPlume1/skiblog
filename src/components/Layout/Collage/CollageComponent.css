@@ -1,0 +1,121 @@
+.collage-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.text-content {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.text-content h1 {
+    margin: 0;
+    font-size: 2rem;
+    color: #333;
+}
+
+.text-content p {.collage-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.text-content {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.text-content h1 {
+    margin: 0;
+    font-size: 2rem;
+    color: #333;
+}
+
+.text-content p {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #666;
+}
+
+.image-collage {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    max-width: 60%; /* Adjust as needed */
+}
+
+.collage-image {
+    width: 48%; /* Adjust the size to fit the layout */
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}.collage-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.text-content {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.text-content h1 {
+    margin: 0;
+    font-size: 2rem;
+    color: #333;
+}
+
+.text-content p {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #666;
+}
+
+.image-collage {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    max-width: 60%; /* Adjust as needed */
+}
+
+.collage-image {
+    width: 48%; /* Adjust the size to fit the layout */
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #666;
+}
+
+.image-collage {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    max-width: 60%; /* Adjust as needed */
+}
+
+.collage-image {
+    width: 48%; /* Adjust the size to fit the layout */
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
