@@ -1,15 +1,16 @@
-.home-container {
+/*.home-container {
     background-image: url('../assets/background.jpg');
     background-size: cover;
     background-position: center;
-    height: 100vh; /* Full viewport height */
+    height: 100vh; /* Full viewport height *//*
     background-attachment: fixed;
 }
 
 .home-content {
-    background-color: rgba(212, 192, 192, 0.5); /* Semi-transparent background for text */
+    background-color: rgba(212, 192, 192, 0.5); /* Semi-transparent background for text *//*
     height: 100vh;
     padding: 20px;
     border-radius: 10px;
     text-align: left;
 }
+*/
